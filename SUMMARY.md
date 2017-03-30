@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [eee](eee.md)
+* [Úvod](uvod.md)
+* [O skupině](README.md)
+* [Jakou hrajeme hudbu](chapter1.md)
+* [Než začneš](eee.md)
 
