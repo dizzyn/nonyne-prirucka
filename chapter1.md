@@ -2,7 +2,7 @@
 
 Především je nutné poznamenat, že veškerá naše hudba je improvizovaná. Nevyházíme z žádného písňového repertoáru a nespadáme do žádného konkrétního žánru.
 
-Naše hudba má rytmickou, harmonickou a melodickou složku. Každou z těchto částí se učíme zvlášť i dohromady a každý z nás umí stejně dobře hrát harmonii, melodii a nebo doprovodit hudební složky rytmikou. Stejně jako se snažíme být univerzální každý zvlášť, je univerzální i celá skupina. Umíme zahrát různé písně pro různé příležitosti, na různá témata, v různých žánrech a hlavně v libovolné sestavě.
+Naše hudba má rytmickou, harmonickou a melodickou složku. Každou z těchto částí se učíme zvlášť a každý z nás umí stejně dobře hrát harmonii, melodii a nebo doprovodit hudební složky rytmikou. Stejně tak je univerzální i celá skupina. Umíme zahrát různé písně na různá témat pro všechny příležitosti.
 
 ### Hrajeme obvykle
 

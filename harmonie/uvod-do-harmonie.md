@@ -1,4 +1,12 @@
-Úvod do harmonie  
-  
-Název 'harmonie' odkazuje k oebecnému principu že věci se k sobě hodí. V našem připadě se samozřejmě jedná o tóny a tak řikáme že ladí. My budeme tento termín využívat pro základ písní, který budeme skládat z akordů. Někdy se tomu také řiká doprovod. Je to samozřejmě veliká zkratka a existuje celý vědní obor o tzv. harmonických funkcích. Tu ale necháme koňovi. 
+Úvod do harmonie
+
+Název 'harmonie' odkazuje k obecnému principu, že některé věci se k sobě hodí a jiné ne. Ty co se k sobě hodí jsou ve vzájemné harmonii, ty druhé ne. Podle našeho přístupu můžeme rozdělit píseň na tři složky. Každá z nich má vlastní zákonitosti a každou se učíme zvlášť.
+
+1. Rytmika - zvuky označující čas
+2. Harmonie - základ písně 
+3. Melodie - dokončení písně
+
+I když je harmonie uprostřed, je nejlépe začít s ní. Naše postupy vyhází z akordů \(existuje celý vědní obor o tzv. harmonických funkcích, tu ale necháme koňovi\) a ty akordy skládáme za sebe do slok a sloky pak opakujeme. Prostě jak je běžné v písničkách. 
+
+Pojďme se podívat jak se to dělá.  
 
