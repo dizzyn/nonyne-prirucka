@@ -13,9 +13,6 @@
 * Hledáme hudební formy a postupy
 * Hrajeme bez not
 * Improvizujeme
-* Skupina je otevřená pro hudebníky všech pokročilostí a dovednosti
-
-
 
 
 
