@@ -12,7 +12,6 @@
     * [Rozklad akordů](harmonie/jak-se-hraji-akordy/rozklad-akordu.md)
     * [Souzvuky akordů](harmonie/jak-se-hraji-akordy/souzvuky-akordu.md)
   * [Druhá píseň](harmonie/druha-pisen.md)
-  * Třetí píseň
 * [Melodie](melodie.md)
   * [Úvod do melodie](melodie/uvod-do-melodie.md)
   * [Stupnice](melodie/stupnice.md)
