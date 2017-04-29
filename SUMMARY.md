@@ -17,7 +17,7 @@
   * [Úvod do melodie](melodie/uvod-do-melodie.md)
   * [Stupnice](melodie/stupnice.md)
 * [Rytmika](rytmika.md)
-  * Úvod do rymyky
+  * [Úvod do rymyky](rytmika/uvod-do-rymyky.md)
 * [Estetika](estetika.md)
 * [Cvičení](cviceni.md)
   * [Rainman](cviceni/rain-men.md)
@@ -27,7 +27,7 @@
   * Opakování
   * [Dokonalá píseň](cviceni/dokonaly-kruh.md)
 * [Teorie](teorie.md)
-  * Teorie ke stupnicím
-  * Teorie k akordům
+  * [Teorie ke stupnicím](teorie/teorie-ke-stupnicim.md)
+  * [Teorie k akordům](teorie/teorie-k-akordum.md)
 * [Kúň](kun.md)
 
