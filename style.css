@@ -1,3 +1,9 @@
 .gitbook-link {
-    color: red !important;
+    color: red !important;  
+}
+.summary>li { 
+    display: none;
+}
+.summary>li.chapter { 
+    display: block;
 }

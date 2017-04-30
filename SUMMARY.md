@@ -5,7 +5,7 @@
   * [Jakou hrajeme hudbu](nase-hudba.md)
   * [Než začneš](eee.md)
 * [Harmonie](harmonie/uvod-do-harmonie.md)
-  * [Akordy](harmonie/akordy.md)
+  * [Akordy](harmonie/akordy/akordy.md)
     * [Jak se hrají akordy](harmonie/akordy/jak-se-hraji-akordy.md)
     * [Rozklad akordů](harmonie/akordy/rozklad-akordu.md)
     * [Souzvuky akordů](harmonie/akordy/souzvuky-akordu.md)
