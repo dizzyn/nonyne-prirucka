@@ -1,5 +1,8 @@
 {
 
+    "styles": {
+        "website": "style.css"
+    },
     // Links in template (null: default, false: remove, string: new value)
     "links": {
         // Link to home in the top-left corner
