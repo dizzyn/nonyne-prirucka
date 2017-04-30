@@ -1,9 +1,9 @@
 # Summary
 
 * [Úvod](README.md)
-  * [O skupině](o-skupine.md)
-  * [Jakou hrajeme hudbu](nase-hudba.md)
-  * [Než začneš](eee.md)
+  * [O skupině](uvod/o-skupine.md)
+  * [Jakou hrajeme hudbu](uvod/nase-hudba.md)
+  * [Než začneš](uvod/nez-zacnes.md)
 * [Harmonie](harmonie/uvod-do-harmonie.md)
   * [Akordy](harmonie/akordy/akordy.md)
     * [Jak se hrají akordy](harmonie/akordy/jak-se-hraji-akordy.md)

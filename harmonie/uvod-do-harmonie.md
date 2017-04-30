@@ -4,7 +4,7 @@ _Název 'harmonie' odkazuje k obecnému principu, že některé věci se k sobě
 
 Podle našeho přístupu můžeme rozdělit píseň na tři složky. Každá z nich má vlastní zákonitosti a každou se učíme zvlášť:
 
-1. [Rytmika](../rytmika/uvod-do-rymyky.md) - zvuky označující čas
+1. [Rytmika](../rytmika/uvod-do-rymiky.md) - zvuky označující čas
 2. Harmonie - základ písně 
 3. Melodie - dokončení písně
 
