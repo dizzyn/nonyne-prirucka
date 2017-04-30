@@ -10,7 +10,7 @@ Tohle není špatná písnička. Zahraj ji tak, jak umíš, nebo například tak
 
 Taková písnička je zcela funkční \([https://www.youtube.com/watch?v=Jp6j5HJ-Cok](https://www.youtube.com/watch?v=Jp6j5HJ-Cok%29\)\) a tady je magie, která se v ní skývá:
 
-* Hrajeme ve stupnici C-dur \(více o stupnicích je zde\) proto začneme akordem C-dur \(značíme písmenem C\)
+* Hrajeme ve stupnici C-dur \([více o stupnicích je zde](../teorie/teorie-ke-stupnicim.md)\) proto začneme akordem C-dur \(značíme písmenem C\)
 * Akord vycházející z prvního tónu stupnice umožní posluchači se zorientovat, jako když pohádka začíná "bylo, nebylo..."
 * Akord F-dur je akordem vycházejícím ze čtvrtého tónu stupnice a v posluchačích vyvolává určité napětí
 * Akord G-dur toto napětí ještě vystupňuje \(o pátém tónu stupnice se říká, že je velmi dominantní\)
@@ -21,11 +21,8 @@ Podobně by jistě bylo možné rozebrat jakoukoliv píseň, ale my to dělat u�
 
 **Co dál?**
 
-Než se pustíme k dalším písním se složitější strukturou, zkus si nejprve dostat co nejvíce z této základní. Podívej se do kapitoly _Jak se hrají akordy_ a nauč se je hrát všechny způsoby, které umožní tvůj hudební nástroj. Zkus si také různá tempa \(rychlosti\) i velmi pomalá a velmi rychlá. Samozřejmě hraj co nejčistěji a bez chyb.
+Než se pustíme k dalším písním se složitější strukturou, zkus si nejprve dostat co nejvíce z této základní. Podívej se do kapitoly (jak se hrají akordy)[./akordy/jak-se-hraji-akordy.md) a nauč se je hrát na všechny způsoby které umožní tvůj hudební nástroj. Zkus si také různá tempa \(rychlosti\) i velmi pomalá a velmi rychlá. Samozřejmě hraj co nejčistěji a bez chyb.
 
 **Co s takovou písní?**
 
-Taková píseň je sama o sobě dost dobrá aby k ní vznikl text nebo sólová melodie. Bude se nám také hodit na různá cvičení.  
-   
-
-
+Taková píseň je sama o sobě dost dobrá aby k ní vznikl text nebo sólová melodie. Bude se nám také hodit na různá cvičení.
