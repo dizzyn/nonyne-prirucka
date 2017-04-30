@@ -1,0 +1,21 @@
+{
+
+    // Links in template (null: default, false: remove, string: new value)
+    "links": {
+        // Link to home in the top-left corner
+        "home": null,
+
+        // Links in top of sidebar
+        "about": false,
+        "issues": false,
+        "contribute": false,
+
+        // Sharing links
+        "sharing": {
+            "google": false,
+            "facebook": false,
+            "twitter": false
+        }
+    }
+
+}
