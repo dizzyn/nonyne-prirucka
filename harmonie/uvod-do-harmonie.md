@@ -4,11 +4,10 @@ _Název 'harmonie' odkazuje k obecnému principu, že některé věci se k sobě
 
 Podle našeho přístupu můžeme rozdělit píseň na tři složky. Každá z nich má vlastní zákonitosti a každou se učíme zvlášť:
 
-1. [Rytmika](../rytmika/uvod-do-rytmiky.md) - zvuky označující čas
-2. [Harmonie](./uvod-do-harmonie.md) - základ písně 
-3. [Melodie](../melodie/uvod-do-melodie.md) - dokončení písně
+1. Rytmika - zvuky označující časové úseky
+2. Harmonie - hudební prostředí písně
+3. Melodie - tvorba v prostředí a rytmu na různá témata a myšlenky
 
 I když je harmonie uprostřed, je nejlépe začít s ní. Naše postupy vyhází z akordů \(existuje celý vědní obor o tzv. harmonických funkcích, ten ale necháme _koňovi_\) a ty akordy skládáme za sebe do slok a sloky pak opakujeme. Prostě jak je běžné v písničkách.
 
 Pojďme se podívat jak se to dělá...
-
