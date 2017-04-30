@@ -1,18 +1,5 @@
-# O naší skupině
+# Úvod
 
-# Co chceme
+Jsme skupina hudební improvizace _NotyNe_. Tento dokument je příručka k naší hudební metodě.
 
-* Zahrát si
-* Být vidět
-* Pracovat na sobě
-
-## Co děláme
-
-* Pravidelně se scházíme a cvičíme
-* Často vystupujeme
-* Hledáme hudební formy a postupy
-* Hrajeme bez not
-* Improvizujeme
-
-
-
+Texty mohou sloužit i jako učebnice hudebních dovedností. Kdo by ale chtěl sedět doma u počítače, seber hudební nástroj a doraž za námi.
