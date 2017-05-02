@@ -1,2 +1,2 @@
-Dokonalá píseň - zastřešující cvićení pro harmonii a melodie
+Dokonalá píseň - zastřešující cvičení pro harmonii a melodie
 
