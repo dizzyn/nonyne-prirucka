@@ -9,4 +9,4 @@ Text může sloužit i jako učebnice hudebních dovedností. Kdo by ale chtěl 
 
 (Stav dokumentu: Méně než draft)
 ----------
-*Pokud nalezneš v příručce nějaké chyby, můžeš je vyreportovat na [gihubu jako 'issue'](https://github.com/dizzyn/nonyne-prirucka/issues) a nebo udělat [pull request](https://github.com/dizzyn/nonyne-prirucka).*
+*Pokud nalezneš v příručce nějaké chyby, můžeš je vyreportovat na [gihubu jako 'issue'](https://github.com/dizzyn/notyne-prirucka/issues) a nebo udělat [pull request](https://github.com/dizzyn/notyne-prirucka).*
