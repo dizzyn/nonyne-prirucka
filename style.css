@@ -7,3 +7,6 @@
 .summary>li.chapter { 
     display: block;
 }
+.summary>li.chapter li>span { 
+    opacity: .7;
+}
