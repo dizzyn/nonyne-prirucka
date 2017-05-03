@@ -13,7 +13,7 @@
   * [Druhá píseň](harmonie/druha-pisen.md)
   * [Třetí, čtvrtá a pátá píseň](harmonie/treti-ctvrta-a-pata-pisen.md)
 * [Melodie](melodie/uvod-do-melodie.md)
-  * [Stupnice](melodie/stupnice.md)
+  * [Improvizujeme](melodie/improvizované-melodie.md)
 * [Rytmika](rytmika/uvod-do-rytmiky.md)
 * [Estetika](estetika.md)
 * [Cvičení](cviceni.md)

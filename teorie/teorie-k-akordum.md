@@ -1,1 +1,1 @@
-bude
+tabula rasa - ale brzy tu něco bude
