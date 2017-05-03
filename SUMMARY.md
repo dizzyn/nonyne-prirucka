@@ -16,7 +16,7 @@
   * [Improvizujeme](melodie/improvizované-melodie.md)
 * [Rytmika](rytmika/uvod-do-rytmiky.md)
 * [Estetika](estetika.md)
-* [Cvičení](uvod-ke-cviceni.md)
+* [Cvičení](cviceni/uvod-ke-cviceni.md)
   * [Rainman](cviceni/rain-men.md)
   * Cvičení harmonie (todo)
   * Rozhovory (todo)
