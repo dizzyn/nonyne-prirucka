@@ -16,12 +16,12 @@
   * [Improvizujeme](melodie/improvizované-melodie.md)
 * [Rytmika](rytmika/uvod-do-rytmiky.md)
 * [Estetika](estetika.md)
-* [Cvičení](cviceni.md)
+* [Cvičení](uvod-ke-cviceni.md)
   * [Rainman](cviceni/rain-men.md)
-  * Cvičení harmonie
-  * Rozhovory
-  * Rozpoznávání
-  * Opakování
+  * Cvičení harmonie (todo)
+  * Rozhovory (todo)
+  * Rozpoznávání (todo)
+  * Opakování (todo)
   * [Dokonalá píseň](cviceni/dokonaly-kruh.md)
 * [Teorie](teorie.md)
   * [Teorie ke stupnicím](teorie/teorie-ke-stupnicim.md)
