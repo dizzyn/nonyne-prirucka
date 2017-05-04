@@ -24,11 +24,11 @@ Každého typu diatonické stupnice \(dur, moll melodická, moll harmonická, ja
 
 ### Srovnání chromatické stupnice a diatonických stupnic
 | | Chromatická | Diatonické |
-| | :---        | :---       |
+| :--- | :--- | :--- |
 | Kolik jich existuje | Jen jedna | Mnoho druhů a od každého druhu 12 verzí |
 | Jakou má masku | 1-1-1-1-1-1... | Jakoukoliv jinou |
 | Na co se používá | Na nic praktického | Hrají se v nich písně |
-| Musím ji umět | Každý ji umí | Ano, alespoň durovou C pro začátek a později i další |
+| Musím ji umět | Každý ji umí, nic na tom není | Ano, alespoň durovou C pro začátek a později i další |
 
 
 
