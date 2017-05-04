@@ -8,6 +8,6 @@ Podle našeho přístupu můžeme rozdělit píseň na tři složky. Každá z n
 2. Harmonie - hudební prostředí písně
 3. Melodie - tvorba v prostředí a rytmu na různá témata a myšlenky
 
-I když je harmonie uprostřed, je nejlépe začít s ní. Naše postupy vyhází z akordů \(existuje celý vědní obor o tzv. harmonických funkcích, ten ale necháme _koňovi_\) a ty akordy skládáme za sebe do slok a sloky pak opakujeme. Prostě jak je běžné v písničkách.
+I když je harmonie uprostřed, je nejlépe začít s ní. Naše postupy vychází z akordů \(existuje celý vědní obor o tzv. harmonických funkcích, ten ale necháme _koňovi_\) a ty akordy skládáme za sebe do slok a sloky pak opakujeme. Prostě jak je běžné v písničkách.
 
 Pojďme se podívat jak se to dělá...
