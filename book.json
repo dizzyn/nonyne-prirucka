@@ -1,7 +1,4 @@
 {
-    "plugins": [
-        "printlinks"
-    ],
     "styles": {
         "website": "style.css"
     },
