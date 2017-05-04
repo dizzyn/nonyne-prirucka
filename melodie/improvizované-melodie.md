@@ -12,7 +12,7 @@ Pan Aebersold (něco jeko Komenský v jazzu) napsal na úvod své legendární s
 Hraj tedy jaké tóny chceš, časem zjistíš, které ladí. Najdi dostatek odvahy hrát a dostatek sebeúcty nekazit to moc. Oboje je špatně. Více v [kapitole o estetice](../estetika.md). Na pomoc je zde 5 hvězdiček, kterých můžeš dosáhnout. Pokud máš 3, jsi na tom lépe než asi 6 miliard lidí, neboj se a hraj! 
 
 ## Pět kroků k sólové improvizaci?
-1. **Najdi svoje misto** - zjisti sluchem, kolik taktů má sloka písně, a tref se do ní. Poznej, kdy můžeš začít, a kdy musíš skončit. Píseň z úvodu kapitoly má 8 taktů. Zahraj sólo na 8 nebo 16 taktů a začni na první.
+1. **Najdi svoje místo** - zjisti sluchem, kolik taktů má sloka písně, a tref se do ní. Poznej, kdy můžeš začít, a kdy musíš skončit. Píseň z úvodu kapitoly má 8 taktů. Zahraj sólo na 8 nebo 16 taktů a začni na první.
 
 2. **Najdi správný rytmus** - skládej tóny za sebe aby nějakým způsobem odkazovali na pevný rytmus sklatby. Můžeš hrát rychleji nebo pomaleji, můžeš to střídat, můžeš přestat a pak začít. Zkus se ale vejít do rytmu harmonie a rytmického doprovodu.
 
