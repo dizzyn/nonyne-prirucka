@@ -8,7 +8,7 @@ Určíme si její délku, velmi dobře vychází 4 x 2 takty, každý takt bude 
 
 Tohle není špatná písnička. Zahraj ji tak, jak umíš, nebo například tak, že akord rozložíš na tóny. Více se o tom dočteš v kapitole Jak se hrají akordy.
 
-Taková písnička je zcela funkční \(https://www.youtube.com/watch?v=Jp6j5HJ-Cok nebo https://www.youtube.com/watch?v=Jp6j5HJ-Cok%29\) a tady je magie, která se v ní skývá:
+Taková písnička je zcela funkční \(https://www.youtube.com/watch?v=Jp6j5HJ-Cok nebo https://www.youtube.com/watch?v=Jp6j5HJ-Cok%29) a tady je magie, která se v ní skývá:
 
 * Hrajeme ve stupnici C-dur \([více o stupnicích je zde](../teorie/teorie-ke-stupnicim.md)\) proto začneme akordem C-dur \(značíme písmenem C\)
 * Akord vycházející z prvního tónu stupnice umožní posluchači se zorientovat, jako když pohádka začíná "bylo, nebylo..."
