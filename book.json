@@ -1,15 +1,22 @@
 {
-
+    "plugins": [
+        "downloadpdf", "printlinks"
+    ],
+    "pluginsConfig": {
+        "downloadpdf": {
+            "base": "https://github.com/zhaoda/webpack-handbook/edit/master/content",
+            "label": "Download PDF",
+            "multilingual": false
+        }
+    },
     "styles": {
         "website": "style.css"
     },
     "links": {
         "home": null,
-
         "about": false,
         "issues": false,
         "contribute": false,
-
         "sharing": {
             "google": false,
             "facebook": false,
