@@ -2,7 +2,7 @@
 
 Možná už teď víš, že se chceš přidat. To je dobře!
 
-Stačí si splnit tyto tři podínky:
+Stačí splnit tyto tři podmínky:
 
 1. Pořiď si_ hudební nástroj_, takový, který tvoří tóny. Není to tedy buben, ale piáno, saxofon, ukulele apod.
 2. _Musíš na ten nástroj trochu umět_, alespoň pár akordů nebo nějakou stupnici. Prostě se s nástrojem musíš seznámit a naučit se na něj nějakou písničku.
