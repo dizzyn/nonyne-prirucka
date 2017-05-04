@@ -21,7 +21,7 @@ Podobně by jistě bylo možné rozebrat jakoukoliv píseň, ale my to dělat u�
 
 **Co dál?**
 
-Než se pustíme k dalším písním se složitější strukturou, zkus si nejprve dostat co nejvíce z této základní. Podívej se do kapitoly \([jak se hrají akordy](.../akordy/jak-se-hraji-akordy.md)\) a nauč se je hrát na všechny způsoby, které umožní tvůj hudební nástroj. Zkus si také různá tempa \(rychlosti\) - i velmi pomalá a velmi rychlá. Samozřejmě hraj co nejčistěji a bez chyb.
+Než se pustíme k dalším písním se složitější strukturou, zkus si nejprve dostat co nejvíce z této základní. Podívej se do kapitoly \(jak se hrají akordy(.../akordy/jak-se-hraji-akordy.md)\) a nauč se je hrát na všechny způsoby, které umožní tvůj hudební nástroj. Zkus si také různá tempa \(rychlosti\) - i velmi pomalá a velmi rychlá. Samozřejmě hraj co nejčistěji a bez chyb.
 
 **Co s takovou písní?**
 
