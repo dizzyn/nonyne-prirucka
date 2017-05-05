@@ -13,3 +13,6 @@
 * Hledáme hudební formy a postupy
 * Hrajeme bez not
 * Improvizujeme
+
+
+![Local Image](../fotka-skupiny.jpg)
