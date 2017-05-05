@@ -5,7 +5,7 @@ Jsme skupina hudební improvizace _NotyNe_. Tento dokument je příručka k naš
 Text může sloužit i jako učebnice hudebních dovedností. Kdo by ale chtěl sedět doma u počítače, seber hudební nástroj a doraž za námi!
 
 - web skupiny: [notyne.improliga.cz](http://notyne.improliga.cz)
-- tato příručka: [https://dizzyn.gitbooks.io/hudebni-improvizace-notyne/](https://dizzyn.gitbooks.io/hudebni-improvizace-notyne/)
+- tato příručka: [https://dizzyn.gitbooks.io/hudebni-improvizace-notyne/](https://dizzyn.gitbooks.io/hudebni-improvizace-notyne/) ([PDF verze pro tisk](https://www.gitbook.com/download/pdf/book/dizzyn/hudebni-improvizace-notyne))
 
 (Stav dokumentu: Méně než draft)
 ----------
