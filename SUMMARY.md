@@ -26,4 +26,4 @@
 * [Teorie](teorie.md)
   * [Teorie ke stupnicím](teorie/teorie-ke-stupnicim.md)
   * [Teorie k akordům](teorie/teorie-k-akordum.md)
-* [Kúň](kun.md)
+* [Kůň](kun.md)
